@@ -27,7 +27,7 @@ Tugas 8
 │   ├── sidebar.php
 │   └── footer.php
 │
-├── index.php
+├── dashboard.php
 ├── input_dosen.php
 ├── data_dosen.php
 ├── input_mahasiswa.php
